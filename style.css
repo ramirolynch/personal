@@ -25,3 +25,10 @@ header, section {
     font-size: 1.5em;
 }
 
+section {
+    margin-bottom: 1em;
+}
+
+.container {
+    display:flex;
+}
