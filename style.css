@@ -4,9 +4,6 @@ body {
     color: #2b2d30;
 }
 
-header, section {
-    margin-left: 1em;
-}
 
 .heading, .date {
     color:black;
@@ -32,3 +29,17 @@ section {
 .container {
     display:flex;
 }
+
+.container > ul {
+
+        list-style: none;
+        padding-inline-start: 0;
+        margin-right:2em;
+}
+
+@media only screen and (min-width: 768px) {
+
+    header, section {
+        margin-left: 1em;
+    }
+  }
