@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+    color: #2b2d30;
+}
+
+header, section {
+    margin-left: 1em;
+}
+
+.heading, .date {
+    color:black;
+    font-size: 1.1em;
+}
+
+.heading {
+
+    color:black;
+    font-size: 1.5em;
+
+}
+
+.header {
+    color:black;
+    font-size: 1.5em;
+}
+
